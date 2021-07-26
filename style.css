@@ -7,6 +7,6 @@ h1{
 .orange-color{
     color: orangered;
 }
-.half-width img{
-width: 80%;
+section{
+    display: flex;
 }
